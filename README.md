@@ -33,5 +33,5 @@ python script.py yourdomain.com 173.209.150.123 root  ber72ki#dre@#%~
 
 After running the script, verify that your Mailu mail server is up and running by accessing it via your web browser 
 
-- Webmail : https://main.yourdomain.com/webmail/
-- Admin UI : https://mail.yourdomain.com/admin/
+- Webmail : [https://main.yourdomain.com/webmail/](https://test.mailu.io/webmail/)
+- Admin UI : [https://mail.yourdomain.com/admin/](https://test.mailu.io/admin/)
